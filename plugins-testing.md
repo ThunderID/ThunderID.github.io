@@ -1,4 +1,4 @@
-### Plugin Testing
+### [🏠](https://thunderid.github.io) > Plugin Testing
 
 1. [API DOCS](https://github.com/mpociot/laravel-apidoc-generator)
 
@@ -8,5 +8,3 @@
 2. [API POSTMAN](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman)
    
    Plugin ini untuk otmatis test postman collection
-
-Kembali ke [🏠](https://thunderid.github.io)
