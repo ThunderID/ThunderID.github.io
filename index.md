@@ -8,4 +8,4 @@ Dokumentasi ini bertujuan untuk mempermudah proses developmen dengan cara berbag
 
 
 
-Untuk ikut berkontribusi dapat membaca [Format berikut](https://github.com/ThunderID/ThunderID.github.io/blob/master/README.md).
+Untuk ikut berkontribusi dapat membaca [readme.md](https://github.com/ThunderID/ThunderID.github.io/blob/master/README.md).
