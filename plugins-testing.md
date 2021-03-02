@@ -1,4 +1,4 @@
-### [Home](https://thunderid.github.io) > Plugin Testing
+### [Home](https://thunderid.github.io) - Plugin Testing
 
 1. [API DOCS](https://github.com/mpociot/laravel-apidoc-generator)
 
